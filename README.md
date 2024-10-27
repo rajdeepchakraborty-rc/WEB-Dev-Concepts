@@ -44,6 +44,10 @@ I often encounter key concepts that are essential in web development but easy to
 - Keep track of best practices and techniques.
 - Ensure I'm up to date with the latest web standards.
 
+## ✨ Project Structure
+
+Check the project structure here [Project Structure](PROJECT_STRUCTURE.md)
+
 ## 🔍 How to Use
 
 Each topic is broken down into simple explanations along with comments with practical code examples where applicable. Feel free to browse the files, and revise your concepts too!
