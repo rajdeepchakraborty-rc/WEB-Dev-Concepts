@@ -6,9 +6,8 @@ on:
   workflow_dispatch:  # Allow manual triggering
   push:
     branches:
-      # - main
-      # - master
-      - struct
+      - main
+      - master
 
 jobs:
   detect-and-update-structure:
