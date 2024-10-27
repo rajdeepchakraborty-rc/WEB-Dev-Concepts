@@ -2,11 +2,6 @@
 
 <!-- START_STRUCTURE -->
 ```
-├── .github/
-│   ├── scripts/
-│   │   └── update_structure.py
-│   └── workflows/
-│       └── update-readme.yml
 ├── CSS/
 │   └── style.css
 ├── HTML/
